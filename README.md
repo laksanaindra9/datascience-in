@@ -113,7 +113,7 @@ As the only team member with prior experience in the logistics industry, I took 
 
 ## Team
 
-Refanie · **Indra** · Yanti · Fajar · Rahma · Handika
+**Indra** · Refanie · Yanti · Fajar · Rahma · Handika
 
 ---
 
