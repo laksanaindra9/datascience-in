@@ -4,6 +4,8 @@
 
 **Final project, Rakamin Academy Data Science Bootcamp · 2022 · Group project (6 members)**
 
+📊 **[View the full notebook →](notebooks/shipping-on-time-prediction.ipynb)** &nbsp;·&nbsp; 🎯 **[Stakeholder deck (PPTX) →](reports/final-presentation.pptx)**
+
 ---
 
 ## The problem
